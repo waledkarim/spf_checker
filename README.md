@@ -58,3 +58,8 @@ npm run dev
 
 - The app only reads and displays SPF records; it does not validate or expand included domains.
 - SPF records are displayed as returned by DNS and are not modified.
+
+## Screenshots
+
+![Image 1](image.png)
+![Image 2](image-1.png)
