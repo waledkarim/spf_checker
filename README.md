@@ -36,7 +36,7 @@ A simple React-based single-page application (SPA) that allows users to check th
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/waledkarim/spf_checker.git
 cd spf-checker
 ```
 
