@@ -1,0 +1,11 @@
+.results__text--error {
+  background-color: #ffccc7;
+  border: 2px solid #f5222d;
+  color: #f5222d;
+
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 1.05rem;
+  font-weight: 600;
+}

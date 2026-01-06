@@ -1,0 +1,22 @@
+.results__text--success {
+  background-color: #ceefce;
+  border: 2px solid #1e611e;
+  color: #1e611e;
+
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 1.05rem;
+  font-weight: 600;
+
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+.spf-highlight {
+  color: #0070f3;
+  font-weight: 600;
+  background-color: #eef5ff;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
