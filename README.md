@@ -62,4 +62,4 @@ npm run dev
 ## Screenshots
 
 ![Image 1](image-2.png)
-![Image 2](image-3.png)
+![Image 2](image-4.png)
